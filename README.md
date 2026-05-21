@@ -1,6 +1,5 @@
-# NeetCode Solutions — @victionn
+DSA Solutions — @victionn
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
-
+> Repository contains a list of core DSA topics I've done.
 
 
