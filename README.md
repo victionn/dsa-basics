@@ -22,6 +22,7 @@ DSA Solutions — @victionn
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/victionn/dsa-basics/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/victionn/dsa-basics/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -37,5 +38,10 @@ DSA Solutions — @victionn
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/victionn/dsa-basics/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
