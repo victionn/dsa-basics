@@ -18,4 +18,9 @@ DSA Solutions — @victionn
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/victionn/dsa-basics/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/victionn/dsa-basics/tree/master/1929-concatenation-of-array) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/victionn/dsa-basics/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
