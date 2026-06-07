@@ -25,6 +25,7 @@ DSA Solutions — @victionn
 | [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/victionn/dsa-basics/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/victionn/dsa-basics/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/victionn/dsa-basics/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ DSA Solutions — @victionn
 | [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/victionn/dsa-basics/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/victionn/dsa-basics/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/victionn/dsa-basics/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,16 @@ DSA Solutions — @victionn
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/victionn/dsa-basics/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/victionn/dsa-basics/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/victionn/dsa-basics/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
