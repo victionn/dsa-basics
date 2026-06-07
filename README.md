@@ -23,22 +23,26 @@ DSA Solutions — @victionn
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/victionn/dsa-basics/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/victionn/dsa-basics/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/victionn/dsa-basics/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/victionn/dsa-basics/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/victionn/dsa-basics/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/victionn/dsa-basics/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/victionn/dsa-basics/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
