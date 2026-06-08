@@ -9,6 +9,7 @@ DSA Solutions — @victionn
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/victionn/dsa-basics/tree/master/0013-roman-to-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/victionn/dsa-basics/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -30,6 +31,7 @@ DSA Solutions — @victionn
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/victionn/dsa-basics/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/victionn/dsa-basics/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/victionn/dsa-basics/tree/master/0242-valid-anagram) |
@@ -43,6 +45,7 @@ DSA Solutions — @victionn
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/victionn/dsa-basics/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/victionn/dsa-basics/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/victionn/dsa-basics/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/victionn/dsa-basics/tree/master/0242-valid-anagram) |
